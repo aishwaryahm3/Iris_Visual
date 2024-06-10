@@ -4,10 +4,6 @@ Certainly! Here's a more concise README:
 
 ---
 
-# Iris Dataset Analysis
-
-This repository contains an analysis of the Iris dataset, focusing on exploratory data analysis (EDA), summarization, and visualization.
-
 ## Overview
 
 The Iris dataset comprises 150 samples of iris flowers, each characterized by four features: sepal length, sepal width, petal length, and petal width. The target variable represents the species of iris.
