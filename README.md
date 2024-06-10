@@ -20,8 +20,3 @@ The Iris dataset comprises 150 samples of iris flowers, each characterized by fo
 - `iris.csv`: The dataset used for analysis.
 - `iris_analysis.ipynb`: Jupyter Notebook containing the analysis code.
 
-## Usage
-
-1. Clone this repository.
-2. Install dependencies.
-3. Open and run `iris_analysis.ipynb` using a Python environment.
